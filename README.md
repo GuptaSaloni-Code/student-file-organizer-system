@@ -36,4 +36,4 @@ Helps students organize their notes, PDFs, assignments and important documents.
 
 ### Main Menu
 
-![Student File Organiser](StudentFileOrganiser.png)
+![Student File Organiser](imges/StudentFileOrganiser.png)
