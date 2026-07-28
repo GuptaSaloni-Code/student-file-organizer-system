@@ -30,3 +30,10 @@ Helps students organize their notes, PDFs, assignments and important documents.
 ---
 
 ## Project Structure
+
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](StudentFileOrganiser.png)
