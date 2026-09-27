@@ -25,7 +25,7 @@ Helps students organize their notes, PDFs, assignments and important documents.
 - ArrayList — in-memory data storage
 - Java File I/O — FileWriter, BufferedReader
 - Java Desktop API — to open real files
-- Git and GitHub 
+- Git and GitHub - Version Control
 
 ---
 
